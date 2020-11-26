@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+./iml
+# Datasource local storage ignored files
+/../../../../../../:\תואר ראשון יזמות וכלכלה\סמסטר א\חשיבה מיחשובית ותכנות בשפת פייטון\HOMEWORK GIT\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
